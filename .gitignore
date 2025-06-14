@@ -1,0 +1,9 @@
+# CLion/JetBrains
+.idea/
+cmake-build-*/
+*.iml
+
+# Compiled files
+*.o
+*.out
+*.exe
